@@ -58,7 +58,7 @@
 
   - Clone this repo:
   ```
-  git clone -b main https://github.com/reaitten/tgtlg tgtlg
+  git clone -b main https://github.com/Lismilechu/tgtlg tgtlg
   cd tgtlg
   ```
 
